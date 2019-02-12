@@ -1,0 +1,303 @@
+[
+  {
+    "courseName": "Intro to Writing",
+    "courseId": "ENGL 1010",
+    "courseDescription": "Introduction to writing",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Intermediate Writing",
+    "courseId": "ENGL 2010",
+    "courseDescription": "Intermediate Writing",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "College Algebra",
+    "courseId": "Math 1050",
+    "courseDescription": "Algebra",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "American History",
+    "courseId": "HIST 1700",
+    "courseDescription": "American civilization",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Psychology",
+    "courseId": "PSY 1010",
+    "courseDescription": "General Psychology",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Criminal Law",
+    "courseId": "JC 1330",
+    "courseDescription": "Introducation to criminal law",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Public Speaking",
+    "courseId": "COMM 1020",
+    "courseDescription": "Elements of effective communication",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Introdcution to Drawing",
+    "courseId": "ART 1900",
+    "courseDescription": "Intoduction to drawing",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Criminal Justice",
+    "courseId": "JC 1010",
+    "courseDescription": "Introduction to Criminal Justice",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Biology",
+    "courseId": "BIOL 1900",
+    "courseDescription": "Intoduction to Human Biology",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Geology",
+    "courseId": "GEO 1010",
+    "courseDescription": "Intoduction to Geology",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Criminal Investigation",
+    "courseId": "CJ 1340",
+    "courseDescription": "Criminal Investigation",
+    "courseGrade": "TC",
+    "courseFocus": "General Education"
+  },
+  {
+    "courseName": "Business Statistics I",
+    "courseId": "MGMT 2340",
+    "courseDescription": "Introduction to statistics",
+    "courseGrade": "B",
+    "courseFocus": "Business Intelligence"
+  },
+  {
+    "courseName": "Digital Lectures Series",
+    "courseId": "COMP 301R",
+    "courseDescription": "Lectures given by business leader in CS industry",
+    "courseGrade": "A",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Information Systems and Tech Fundamentals",
+    "courseId": "INFO 1120",
+    "courseDescription": "How IS/IT is used in society",
+    "courseGrade": "A",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Computer Programming I",
+    "courseId": "INFO 1200",
+    "courseDescription": "Object Oriented Programming with C#",
+    "courseGrade": "A-",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Data Communication",
+    "courseId": "IT 2600",
+    "courseDescription": "Understanding the 7 layers of the OSI model",
+    "courseGrade": "B",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Database Fundamentals",
+    "courseId": "INFO 2410",
+    "courseDescription": "Fundamental of relational database",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Computer Programming II",
+    "courseId": "INFO 2200",
+    "courseDescription": "Intermediate Object Oriented Programming with C#",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Web Application Design",
+    "courseId": "INFO 2420",
+    "courseDescription": "Responsive web application with HTML and CSS",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Security Fundamentals",
+    "courseId": "IT 2700",
+    "courseDescription": "Intro to security, threats and hacking",
+    "courseGrade": "B",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Management Information Systems",
+    "courseId": "INFO 3120",
+    "courseDescription": "Management information systems and intermediate excel",
+    "courseGrade": "A",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Database Systems and Warehousing",
+    "courseId": "INFO 3430",
+    "courseDescription": "Advance database and data warehousing development",
+    "courseGrade": "B+",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Web Systems Development",
+    "courseId": "INFO 3420",
+    "courseDescription": "Web systems development",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "System Analysis and Design",
+    "courseId": "INFO 3430",
+    "courseDescription": "Design and implementation using Agile Methodologies",
+    "courseGrade": "A-",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Health Informatics",
+    "courseId": "INFO 3700",
+    "courseDescription": "Information systems in Health Care",
+    "courseGrade": "A",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "Global Ethical Perspectives",
+    "courseId": "INFO 405G",
+    "courseDescription": "Understanding Ethical practice and principles in the workplace",
+    "courseGrade": "A-",
+    "courseFocus": "Information Systems Core"
+  },
+  {
+    "courseName": "System Design and Implementation",
+    "courseId": "INFO 4430",
+    "courseDescription": "Design and implementation using Agile Methodologies",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Financial Account",
+    "courseId": "ACC 2010",
+    "courseDescription": "Financial Accounting",
+    "courseGrade": "A-",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Managerial Accounting",
+    "courseId": "ACC 2020",
+    "courseDescription": "Managerial Accounting",
+    "courseGrade": "A",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Written Business Communciation",
+    "courseId": "MKTG 2200",
+    "courseDescription": "Written Business Commuication",
+    "courseGrade": "A",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Organizational Behavior",
+    "courseId": "MGMT 3000",
+    "courseDescription": "Understanding behaviors in the workplace",
+    "courseGrade": "A-",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Intellectual Property and Cyber Law",
+    "courseId": "LEGL 3020",
+    "courseDescription": "Understanding Trademarks, Tradesecrets, Branding and Copyrights",
+    "courseGrade": "B",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Principles of Marketing",
+    "courseId": "MKTG 3600",
+    "courseDescription": "Principles of Marketing",
+    "courseGrade": "B+",
+    "courseFocus": "Business"
+  },
+  {
+    "courseName": "Computer Essentials",
+    "courseId": "CIS 1020",
+    "courseDescription": "Computer Essentials",
+    "courseGrade": "TC",
+    "courseFocus": "Information Systems core"
+  },
+  {
+    "courseName": "Intro to Data Analytics",
+    "courseId": "INFO 3130",
+    "courseDescription": "Principles data modeling and analytics",
+    "courseGrade": "B",
+    "courseFocus": "Business Intelligence"
+  },
+  {
+    "courseName": "Data Science and Big Data",
+    "courseId": "INFO 4130",
+    "courseDescription": "Understanding Data Science and statistica computing",
+    "courseGrade": "B",
+    "courseFocus": "Business Intelligence"
+  },
+  {
+    "courseName": "Organization Information Technologies",
+    "courseId": "TECH 4420",
+    "courseDescription": "Organization Information Technologies",
+    "courseGrade": "A-",
+    "courseFocus": "Business Intelligence"
+  },
+  {
+    "courseName": "PHP Web App Development",
+    "courseId": "INFO 3422",
+    "courseDescription": "Developing web applications using PHP and Angular",
+    "courseGrade": "A-",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Mobile Business App Development",
+    "courseId": "INFO 4420",
+    "courseDescription": "Business App Development using Android Studios",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Server Side App Development",
+    "courseId": "INFO 459R",
+    "courseDescription": "Develope web applications using ASP.NET MVC",
+    "courseGrade": "A",
+    "courseFocus": "Development"
+  },
+  {
+    "courseName": "Managerial Statistics",
+    "courseId": "ECON 3340",
+    "courseDescription": "Managerial Statistics",
+    "courseGrade": "B-",
+    "courseFocus": "Business Intelligence"
+  },
+  {
+    "courseName": "Organization Information Technologies",
+    "courseId": "MKTG 3600",
+    "courseDescription": "Organization Information Technologies",
+    "courseGrade": "A-",
+    "courseFocus": "Business Intelligence"
+  }
+]
